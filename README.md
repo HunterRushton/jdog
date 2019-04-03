@@ -1,2 +1,1 @@
 # jdog
-OWO wats dis
