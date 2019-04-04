@@ -5,7 +5,5 @@ public class Race {
     "Lizardfolk", "Orc", "Tabaxi", "Triton", "Yuan-ti Pureblood", "Feral Tiefling", "Tortle", "Gith", "Changeling",
     "Kalashtar", "Shifter", "Warforged", "Centaur", "Loxodon", "Minotaur", "Simic Hybrid", "Vedalken"};
 
-    public void Human(){
-        
-    }
+
 }
